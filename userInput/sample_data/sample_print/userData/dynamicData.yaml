@@ -1,0 +1,10 @@
+first_name : Prakhar
+last_name : Srivastava
+phone : 123-456-789
+email : prakhartech983@gmail.com
+c_name: Prak EnTech
+month: "January"
+year: "2024"
+alias : "Viewer"
+#define all variables in lower case
+#{{ppdc: hb_month}} {{ppdc: hb_year}}
